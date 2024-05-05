@@ -1,0 +1,79 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://coderyworld.github.io/</id>
+  <title>CoderyWorld</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-05-05T15:56:39+09:00</updated>
+  <author>
+    <name>Jeuk Kim</name>
+    <uri>https://coderyworld.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://coderyworld.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="ko"
+    href="https://coderyworld.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <rights> © 2024 Jeuk Kim </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Android 13 루팅하기 (갤럭시 탭 S7 / S7+)</title>
+    <link href="https://coderyworld.github.io/posts/tabs7-rooting/" rel="alternate" type="text/html" title="Android 13 루팅하기 (갤럭시 탭 S7 / S7+)" />
+    <published>2024-05-05T15:26:00+09:00</published>
+  
+    <updated>2024-05-05T15:26:00+09:00</updated>
+  
+    <id>https://coderyworld.github.io/posts/tabs7-rooting/</id>
+    <content src="https://coderyworld.github.io/posts/tabs7-rooting/" />
+    <author>
+      <name>jeuk</name>
+    </author>
+
+  
+    
+    <category term="IT" />
+    
+    <category term="Tips" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  루팅을 진행하게 되면 갤럭시 노트 워런티가 깨지게 됩니다. 추후 순정 펌웨어로 돌린다고 하더라도 삼성페이를 포함한 각종 은행 어플들을 사용할 수 없게 됩니다.
+
+
+안드로이드 버전 12 및 13에는 동일한 방법으로 루팅을 할 수 있습니다.
+
+  갤럭시 S20, S21, S22 시리즈
+  갤럭시 노트 10, 20 시리즈
+  갤럭시 탭 S6 lite, S7, S8 시리즈
+
+
+모델 확인하기
+정확한 모델명과 안드로이드 버전 확인이 필요합니다.
+다음에서 확인할 수 있습니다.
+
+  설정 → 휴대전화 정보 (ex. SM-T975)
+  설정 → 휴대전화 정보 → 소프트웨어 정보 (ex. Android 13)
+
+
+파일 준비하기
+필요한 파일들은 다음과 같습니다. 펌웨어 다운로드는 오래 걸리니 미리 준비하시기를 추천드...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
