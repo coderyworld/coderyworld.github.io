@@ -40,13 +40,13 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/jeuk-kim-098200288
 
-google_site_verification: 6ol6ygzrfBDanoxVYzgTJpVKhKcmf4QNEs-na6pLF58
+google_site_verification: UIN-OQ8KIQ2HwFth5flfdZTSVdojpCLXYaln7cXJ7h4
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: G-KLVBSMX4JD
+  id: G-TKJP6H07PT
 
 goatcounter:
   id: # fill in your Goatcounter ID
