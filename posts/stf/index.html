@@ -44,7 +44,7 @@
 <meta property="twitter:title" content="나만의 Smartphone Test Farm 만들기 (STF)" />
 <meta name="google-site-verification" content="UIN-OQ8KIQ2HwFth5flfdZTSVdojpCLXYaln7cXJ7h4" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Jeuk Kim","url":"https://github.com/coderyworld/"},"dateModified":"2024-05-24T17:57:00+09:00","datePublished":"2024-05-24T17:57:00+09:00","description":"이 글에서는 스마트폰, 스마트워치 등의 장치를 원격으로 디버깅할 수 있는 웹 애플리케이션인 STF(Smartphone Test Farm)를 이용하여 나만의 테스트 팜을 만드는 방법에 대해 알아보겠습니다.","headline":"나만의 Smartphone Test Farm 만들기 (STF)","mainEntityOfPage":{"@type":"WebPage","@id":"https://coderyworld.github.io/posts/stf/"},"url":"https://coderyworld.github.io/posts/stf/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Jeuk Kim","url":"https://github.com/coderyworld/"},"dateModified":"2024-05-24T18:22:20+09:00","datePublished":"2024-05-24T17:57:00+09:00","description":"이 글에서는 스마트폰, 스마트워치 등의 장치를 원격으로 디버깅할 수 있는 웹 애플리케이션인 STF(Smartphone Test Farm)를 이용하여 나만의 테스트 팜을 만드는 방법에 대해 알아보겠습니다.","headline":"나만의 Smartphone Test Farm 만들기 (STF)","mainEntityOfPage":{"@type":"WebPage","@id":"https://coderyworld.github.io/posts/stf/"},"url":"https://coderyworld.github.io/posts/stf/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -879,6 +879,29 @@
 
       <!-- lastmod date -->
       
+        <span>
+          Updated
+          <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+<time
+  
+  data-ts="1716542540"
+  data-df="ll"
+  
+    data-bs-toggle="tooltip" data-bs-placement="bottom"
+  
+>
+  May 24, 2024
+</time>
+
+        </span>
+      
 
       
 
@@ -904,7 +927,7 @@
   class="readtime"
   data-bs-toggle="tooltip"
   data-bs-placement="bottom"
-  title="679 words"
+  title="691 words"
 >
   <em>3 min</em> read</span>
 
@@ -1021,8 +1044,9 @@ wget <span class="nt">-qO-</span> https://download.rethinkdb.com/repository/raw/
       <button aria-label="copy" data-title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
 </pre></td><td class="rouge-code"><pre>stf <span class="nb">local</span>
 </pre></td></tr></tbody></table></code></div></div>
-<p>그 후 브라우저로 <code class="language-plaintext highlighter-rouge">http://localhost:7100</code> 접속하면 됩니다.
+<p>그 후 브라우저로 <code class="language-plaintext highlighter-rouge">http://localhost:7100</code> 접속하면 됩니다.<br />
 <a href="/assets/img/STF/login.png" class="popup img-link  shimmer"><img src="/assets/img/STF/login.png" alt="STF 로그인 페이지" loading="lazy"></a></p>
+<p class="image-caption">STF 로그인 페이지</p>
 
 <p>초기 관리자 계정은 다음과 같습니다.</p>
 <blockquote>
@@ -1048,6 +1072,7 @@ E-mail: administrator@fakedomain.com</p>
 </pre></td><td class="rouge-code"><pre>stf <span class="nb">local</span> <span class="nt">--allow-remote</span>
 </pre></td></tr></tbody></table></code></div></div>
 <p><a href="/assets/img/STF/stf.png" class="popup img-link  shimmer"><img src="/assets/img/STF/stf.png" alt="stf 화면" loading="lazy"></a></p>
+<p class="image-caption">STF 메인 화면</p>
 
 <h2 id="마무리"><span class="me-2">마무리</span><a href="#마무리" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 <p>STF를 사용하면 다양한 디바이스를 하나의 프레임워크로 관리할 수 있다는 점이 좋습니다. 또한 원격으로 기기들을 제어할 수 있다는 것도 큰 장점입니다.</p>

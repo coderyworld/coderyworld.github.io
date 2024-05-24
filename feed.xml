@@ -4,7 +4,7 @@
   <id>https://coderyworld.github.io/</id>
   <title>CoderyWorld</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-05-24T18:04:13+09:00</updated>
+  <updated>2024-05-24T18:22:27+09:00</updated>
   <author>
     <name>Jeuk Kim</name>
     <uri>https://coderyworld.github.io/</uri>
@@ -24,7 +24,7 @@
     <link href="https://coderyworld.github.io/posts/stf/" rel="alternate" type="text/html" title="나만의 Smartphone Test Farm 만들기 (STF)" />
     <published>2024-05-24T17:57:00+09:00</published>
   
-    <updated>2024-05-24T17:57:00+09:00</updated>
+    <updated>2024-05-24T18:22:20+09:00</updated>
   
     <id>https://coderyworld.github.io/posts/stf/</id>
     <content src="https://coderyworld.github.io/posts/stf/" />
