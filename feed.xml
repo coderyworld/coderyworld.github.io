@@ -4,7 +4,7 @@
   <id>https://coderyworld.github.io/</id>
   <title>CoderyWorld</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-05-23T22:08:59+09:00</updated>
+  <updated>2024-05-24T18:04:13+09:00</updated>
   <author>
     <name>Jeuk Kim</name>
     <uri>https://coderyworld.github.io/</uri>
@@ -17,6 +17,60 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>나만의 Smartphone Test Farm 만들기 (STF)</title>
+    <link href="https://coderyworld.github.io/posts/stf/" rel="alternate" type="text/html" title="나만의 Smartphone Test Farm 만들기 (STF)" />
+    <published>2024-05-24T17:57:00+09:00</published>
+  
+    <updated>2024-05-24T17:57:00+09:00</updated>
+  
+    <id>https://coderyworld.github.io/posts/stf/</id>
+    <content src="https://coderyworld.github.io/posts/stf/" />
+    <author>
+      <name>jeuk</name>
+    </author>
+
+  
+    
+    <category term="Tips" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      이 글에서는 스마트폰, 스마트워치 등의 장치를 원격으로 디버깅할 수 있는 웹 애플리케이션인 STF(Smartphone Test Farm)를 이용하여 나만의 테스트 팜을 만드는 방법에 대해 알아보겠습니다.
+
+STF는 브라우저에서 장치를 제어하고 관리할 수 있는 다양한 기능을 제공합니다. 이를 통해 테스트 자동화, 디버깅, 원격 제어 등을 쉽게 할 수 있습니다.
+
+공식 git 주소는 다음과 같습니다.
+https://github.com/DeviceFarmer/stf
+
+환경
+
+  Ubuntu 22.04
+  adb 연결된 android device
+    $ adb devices
+List of devices attached
+192.168.0.40:5555       device
+    
+  
+
+
+주요 기능
+
+운...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
