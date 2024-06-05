@@ -1,72 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://coderyworld.github.io/posts/tabs7-rooting/</loc>
-<lastmod>2024-05-06T11:12:22+09:00</lastmod>
-</url>
-<url>
-<loc>https://coderyworld.github.io/posts/qemu-network/</loc>
-<lastmod>2024-05-16T13:20:00+09:00</lastmod>
-</url>
-<url>
-<loc>https://coderyworld.github.io/posts/charles_proxy/</loc>
-<lastmod>2024-05-19T18:21:00+09:00</lastmod>
-</url>
-<url>
-<loc>https://coderyworld.github.io/posts/ovmf/</loc>
-<lastmod>2024-05-23T21:53:00+09:00</lastmod>
-</url>
-<url>
-<loc>https://coderyworld.github.io/posts/stf/</loc>
-<lastmod>2024-05-24T18:22:20+09:00</lastmod>
-</url>
-<url>
-<loc>https://coderyworld.github.io/categories/</loc>
-<lastmod>2024-05-28T20:15:24+09:00</lastmod>
-</url>
-<url>
-<loc>https://coderyworld.github.io/tags/</loc>
-<lastmod>2024-05-28T20:15:24+09:00</lastmod>
-</url>
-<url>
-<loc>https://coderyworld.github.io/archives/</loc>
-<lastmod>2024-05-28T20:15:24+09:00</lastmod>
-</url>
-<url>
-<loc>https://coderyworld.github.io/about/</loc>
-<lastmod>2024-05-28T20:15:24+09:00</lastmod>
-</url>
-<url>
-<loc>https://coderyworld.github.io/</loc>
-</url>
-<url>
-<loc>https://coderyworld.github.io/tags/rooting/</loc>
-</url>
-<url>
-<loc>https://coderyworld.github.io/tags/galaxy-tab-s7/</loc>
-</url>
-<url>
-<loc>https://coderyworld.github.io/tags/android-13/</loc>
-</url>
-<url>
-<loc>https://coderyworld.github.io/tags/qemu/</loc>
-</url>
-<url>
-<loc>https://coderyworld.github.io/tags/network/</loc>
-</url>
-<url>
-<loc>https://coderyworld.github.io/tags/android/</loc>
-</url>
-<url>
-<loc>https://coderyworld.github.io/tags/ovmf/</loc>
-</url>
-<url>
-<loc>https://coderyworld.github.io/tags/stf/</loc>
-</url>
-<url>
-<loc>https://coderyworld.github.io/categories/tips/</loc>
-</url>
-<url>
-<loc>https://coderyworld.github.io/categories/qemu/</loc>
-</url>
+  
+    <url>
+      <loc>https://coderyworld.github.io/posts/stf/</loc>
+      
+        <lastmod>2024-05-24T17:57:00+09:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://coderyworld.github.io/posts/ovmf/</loc>
+      
+        <lastmod>2024-05-23T21:53:00+09:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://coderyworld.github.io/posts/charles_proxy/</loc>
+      
+        <lastmod>2024-05-19T18:21:00+09:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://coderyworld.github.io/posts/qemu-network/</loc>
+      
+        <lastmod>2024-05-16T13:20:00+09:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://coderyworld.github.io/posts/tabs7-rooting/</loc>
+      
+        <lastmod>2024-05-05T15:26:00+09:00</lastmod>
+      
+    </url>
+  
 </urlset>
