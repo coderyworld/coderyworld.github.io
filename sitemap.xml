@@ -2,37 +2,9 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://coderyworld.github.io/posts/stf/</loc>
-      
-        <lastmod>2024-05-24T17:57:00+09:00</lastmod>
-      
-    </url>
-  
-    <url>
       <loc>https://coderyworld.github.io/posts/ovmf/</loc>
       
         <lastmod>2024-05-23T21:53:00+09:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://coderyworld.github.io/posts/charles_proxy/</loc>
-      
-        <lastmod>2024-05-19T18:21:00+09:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://coderyworld.github.io/posts/qemu-network/</loc>
-      
-        <lastmod>2024-05-16T13:20:00+09:00</lastmod>
-      
-    </url>
-  
-    <url>
-      <loc>https://coderyworld.github.io/posts/tabs7-rooting/</loc>
-      
-        <lastmod>2024-05-05T15:26:00+09:00</lastmod>
       
     </url>
   
