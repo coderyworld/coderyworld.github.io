@@ -277,12 +277,17 @@ sup {
     min-width: 100%;
     overflow-x: auto;
     border-spacing: 0;
+    table-layout: auto; /* 추가: 셀 내용에 따라 테이블 레이아웃 조정 */
+    word-wrap: break-word; /* 추가: 긴 단어 줄바꿈 */
+    white-space: normal; /* 추가: 줄바꿈 허용 */
 
     thead {
       border-bottom: solid 2px rgba(210, 215, 217, 0.75);
 
       th {
         @extend %table-cell;
+        word-wrap: break-word; /* 추가 */
+        white-space: normal; /* 추가 */
       }
     }
 
@@ -300,6 +305,8 @@ sup {
 
         td {
           @extend %table-cell;
+          word-wrap: break-word; /* 추가 */
+          white-space: normal; /* 추가 */
         }
       }
     } /* tbody */
