@@ -46,8 +46,8 @@ google_site_verification: UIN-OQ8KIQ2HwFth5flfdZTSVdojpCLXYaln7cXJ7h4
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-google_analytics:
-  id: 
+# google_analytics:
+#   id: G-TS5PQEBD0W
 
 goatcounter:
   id: # fill in your Goatcounter ID
